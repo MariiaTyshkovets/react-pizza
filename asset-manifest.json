@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pizza/static/css/main.61cadcb5.css",
+    "main.js": "/react-pizza/static/js/main.41a42df8.js",
+    "static/media/margaryta.png": "/react-pizza/static/media/margaryta.86894cd3d6ffa4745a2f.png",
+    "static/media/pizza-logo.png": "/react-pizza/static/media/pizza-logo.d7953ee7571dc4e78b02.png",
+    "index.html": "/react-pizza/index.html",
+    "main.61cadcb5.css.map": "/react-pizza/static/css/main.61cadcb5.css.map",
+    "main.41a42df8.js.map": "/react-pizza/static/js/main.41a42df8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61cadcb5.css",
+    "static/js/main.41a42df8.js"
+  ]
+}
