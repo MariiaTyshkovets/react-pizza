@@ -1,0 +1,30 @@
+@import "./scss/libs/app.scss";
+
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(250, 197, 99);
+  padding: 30px;
+
+  @include tablet {
+    padding: 20px;
+  }
+
+  @include phone {
+    padding: 10px;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+button {
+  cursor: pointer;
+}
