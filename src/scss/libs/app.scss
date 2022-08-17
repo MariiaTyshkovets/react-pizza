@@ -1,0 +1,49 @@
+@import "./fonts";
+@import "./reset";
+@import "./variables";
+@import "./mixins";
+@import "../components/all";
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 0.5rem;
+  min-height: calc(100vh - 60px);
+
+  @include phone {
+    padding: 10px;
+  }
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 1.1;
+}
+
+h2 {
+  font-size: 42px;
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: 34px;
+  line-height: 1.3;
+}
+
+h4 {
+  font-size: 24px;
+  line-height: 1.4;
+}
+
+h5 {
+  font-size: 20px;
+  line-height: 1;
+  margin-bottom: 0.7rem;
+}
+
+h6 {
+  font-size: 16px;
+  line-height: 1.5;
+}

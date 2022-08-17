@@ -1,0 +1,47 @@
+.btn-basket {
+    height: 40px;
+    gap: 5px;
+    padding: 0 15px;
+    display: flex;
+    font-size: 14px;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: rgb(251, 107, 36);
+    border-radius: 25px;
+    color: rgb(255, 255, 255, 0.9);
+    box-shadow: 1px 1px 2px brown;
+    cursor: pointer;
+
+    &:hover {
+        animation: btnAnimation 0.5s ease;
+        margin-bottom: 5px;
+        background-color: brown;
+    }
+
+    svg {
+        width: 20px;
+
+        path {
+            fill: rgb(255, 255, 255, 0.9);
+            box-shadow: 1px 1px 2px brown;
+        }
+    }
+
+    .vertical-line {
+        font-size: 26px;
+        line-height: 1;
+        font-weight: 100;
+        opacity: 0.8;
+    }
+}
+
+@keyframes btnAnimation {
+    from {
+        background-color: rgb(251, 107, 36);
+        margin-bottom: 0px;
+    }
+    to {
+        background-color: brown;
+        margin-bottom: 5px;
+    }
+}

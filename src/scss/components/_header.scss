@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    gap: 1rem;
+
+    &__logo {
+        width: 100px;
+    }
+
+    h3 {
+        font-weight: 700;
+    }
+
+    &__basket {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+}
