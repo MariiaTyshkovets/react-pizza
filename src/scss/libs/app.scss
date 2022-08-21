@@ -5,12 +5,16 @@
 @import "../components/all";
 
 .wrapper {
-  max-width: 1000px;
+  max-width: 1150px;
   margin: 0 auto;
   background-color: white;
-  padding: 20px;
+  padding: 40px;
   border-radius: 0.5rem;
   min-height: calc(100vh - 60px);
+
+  @include tablet {
+    padding: 20px;
+  }
 
   @include phone {
     padding: 10px;

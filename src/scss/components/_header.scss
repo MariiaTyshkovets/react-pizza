@@ -3,6 +3,15 @@
     height: 100px;
     align-items: center;
     gap: 1rem;
+    margin-bottom: 30px;
+
+    @include tablet {
+        margin-bottom: 10px;
+    }
+
+    @include phone {
+        margin-bottom: 0;
+    }
 
     &__logo {
         width: 100px;

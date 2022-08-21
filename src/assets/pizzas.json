@@ -1,0 +1,119 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/557-5579110_vegan-fast-food-options-in-australia-crust-doner.png",
+        "title": "Vegan Pizza",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [5.0, 5.5, 5.6],
+        "category": 0
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/99-990164_jeffrey-mod-pizza-jeffrey-pizza-hd-png-download.png",
+        "title": "Jeffrey Pizza",
+        "types": [1],
+        "sizes": [26, 30, 40],
+        "prices": [6.0, 6.3, 6.5],
+        "category": 0
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/525-5257824_tropical-hawaiian-pizza-hut-hd-png-download.png",
+        "title": "Hawaiian Pizza",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [5.1, 5.3, 5.5],
+        "category": 0
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/199-1996203_cheese-pizza-png-transparent-png.png",
+        "title": "Cheese Pizza",
+        "types": [0],
+        "sizes": [26, 30, 40],
+        "prices": [5.5, 5.8, 6.0],
+        "category": 0
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/494-4944840_veggie-pesto-pizza-california-style-pizza-hd-png.png",
+        "title": "California Pizza",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [5.0, 5.5, 6.0],
+        "category": 0
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/524-5249160_-pizza-hd-png-download.png",
+        "title": "Pizza with Shrimps",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [6.0, 6.5, 6.6],
+        "category": 0
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/529-5297163_crust-pizza-peri-peri-hd-png-download.png",
+        "title": "Peri Pizza",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [5.3, 5.5, 5.8],
+        "category": 0
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/529-5296164_johnny-s-style-restaurant-california-style-pizza-hd.png",
+        "title": "Meat Pizza",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [5.5, 5.8, 6.0],
+        "category": 0
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/248-2486809_transparent-vegetable-pizza-png-png-download.png",
+        "title": "Vegetable Pizza",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [5.0, 5.5, 5.7],
+        "category": 0
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/106-1066181_pizza-kebab-png-transparent-png.png",
+        "title": "Pizza Kebab",
+        "types": [1],
+        "sizes": [26, 30, 40],
+        "prices": [6.1, 6.5, 6.6],
+        "category": 0
+    },
+    {
+        "id": 10,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/106-1066312_pizza-italian-cuisine-vegetarian-cuisine-menu-restaurant-pizza.png",
+        "title": "Italian Pizza",
+        "types": [0],
+        "sizes": [26, 30, 40],
+        "prices": [5.0, 5.5, 5.6],
+        "category": 0
+    },
+    {
+        "id": 11,
+        "imageUrl": "https://png.pngitem.com/pimgs/s/471-4714952_margherita-pizza-white-background-hd-png-download.png",
+        "title": "Margherita Pizza",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [5.0, 5.2, 5.3],
+        "category": 0
+    },
+    {
+        "id": 12,
+        "imageUrl": "https://www.pngitem.com/pimgs/m/106-1066079_midici-neapolitan-pizza-neapolitan-pizza-png-transparent-png.png",
+        "title": "Neapolitan Pizza",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [5.0, 5.3, 5.4],
+        "category": 0
+    }
+]
